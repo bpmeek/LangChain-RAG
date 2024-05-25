@@ -1,0 +1,4 @@
+model_name: google/flan-t5-base
+
+rag_chunk_size: 416
+rag_chunk_overlap: 20
