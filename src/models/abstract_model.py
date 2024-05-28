@@ -28,3 +28,6 @@ class AbstractModel(ABC):
 
     def chat(self, text: str):
         raise NotImplementedError
+
+    def new_topic(self):
+        self._chat_history = []
