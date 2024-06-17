@@ -103,4 +103,4 @@ print(f"RAG model answer: {rag_model_answer}")
     RAG model answer: Taylor Swift is an American singer.
 
 
-Here we can see that another problem with smaller LLM's, the base model just reiterates that Taylor Swift is in fact taylor swift, whereas the RAG model successfully answers that she is an American singer.
+Here we can see that another problem with smaller LLM's, the base model just reiterates that Taylor Swift is in fact Taylor Swift, whereas the RAG model successfully answers that she is an American singer.
